@@ -1,2 +1,3 @@
-# Face-Mask-Detector-CNN
-A real-time computer vision project using OpenCV + Keras CNN to detect mask usage.
+# Face Mask Detector
+
+Detects face masks in real-time using a CNN model and OpenCV.
